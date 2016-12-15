@@ -1,0 +1,5 @@
+D:\Projects\Homework Recursion\07. Calculate sum of digits\bin\Debug\_07.Calculate_sum_of_digits.exe.config
+D:\Projects\Homework Recursion\07. Calculate sum of digits\bin\Debug\_07.Calculate_sum_of_digits.exe
+D:\Projects\Homework Recursion\07. Calculate sum of digits\bin\Debug\_07.Calculate_sum_of_digits.pdb
+D:\Projects\Homework Recursion\07. Calculate sum of digits\obj\Debug\_07.Calculate_sum_of_digits.exe
+D:\Projects\Homework Recursion\07. Calculate sum of digits\obj\Debug\_07.Calculate_sum_of_digits.pdb

@@ -1,0 +1,6 @@
+D:\Projects\Homework Recursion\12. Combinations\bin\Debug\_12.Combinations.exe.config
+D:\Projects\Homework Recursion\12. Combinations\bin\Debug\_12.Combinations.exe
+D:\Projects\Homework Recursion\12. Combinations\bin\Debug\_12.Combinations.pdb
+D:\Projects\Homework Recursion\12. Combinations\obj\Debug\12. Combinations.csprojResolveAssemblyReference.cache
+D:\Projects\Homework Recursion\12. Combinations\obj\Debug\_12.Combinations.exe
+D:\Projects\Homework Recursion\12. Combinations\obj\Debug\_12.Combinations.pdb

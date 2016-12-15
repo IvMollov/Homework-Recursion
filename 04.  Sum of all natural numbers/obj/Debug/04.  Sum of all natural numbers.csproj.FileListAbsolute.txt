@@ -1,0 +1,5 @@
+D:\Projects\Homework Recursion\04.  Sum of all natural numbers\bin\Debug\_04.Sum_of_all_natural_numbers.exe.config
+D:\Projects\Homework Recursion\04.  Sum of all natural numbers\bin\Debug\_04.Sum_of_all_natural_numbers.exe
+D:\Projects\Homework Recursion\04.  Sum of all natural numbers\bin\Debug\_04.Sum_of_all_natural_numbers.pdb
+D:\Projects\Homework Recursion\04.  Sum of all natural numbers\obj\Debug\_04.Sum_of_all_natural_numbers.exe
+D:\Projects\Homework Recursion\04.  Sum of all natural numbers\obj\Debug\_04.Sum_of_all_natural_numbers.pdb

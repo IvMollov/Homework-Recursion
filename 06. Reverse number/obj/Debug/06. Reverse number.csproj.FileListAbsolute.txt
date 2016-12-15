@@ -1,0 +1,5 @@
+D:\Projects\Homework Recursion\06. Reverse number\bin\Debug\_06.Reverse_number.exe.config
+D:\Projects\Homework Recursion\06. Reverse number\bin\Debug\_06.Reverse_number.exe
+D:\Projects\Homework Recursion\06. Reverse number\bin\Debug\_06.Reverse_number.pdb
+D:\Projects\Homework Recursion\06. Reverse number\obj\Debug\_06.Reverse_number.exe
+D:\Projects\Homework Recursion\06. Reverse number\obj\Debug\_06.Reverse_number.pdb

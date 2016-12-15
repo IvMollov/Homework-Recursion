@@ -1,0 +1,5 @@
+D:\Projects\Homework Recursion\08. Sum of array elements\bin\Debug\_08.Sum_of_array_elements.exe.config
+D:\Projects\Homework Recursion\08. Sum of array elements\bin\Debug\_08.Sum_of_array_elements.exe
+D:\Projects\Homework Recursion\08. Sum of array elements\bin\Debug\_08.Sum_of_array_elements.pdb
+D:\Projects\Homework Recursion\08. Sum of array elements\obj\Debug\_08.Sum_of_array_elements.exe
+D:\Projects\Homework Recursion\08. Sum of array elements\obj\Debug\_08.Sum_of_array_elements.pdb

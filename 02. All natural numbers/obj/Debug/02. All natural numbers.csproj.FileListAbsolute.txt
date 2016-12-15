@@ -1,0 +1,5 @@
+D:\Projects\Homework Recursion\02. All natural numbers\bin\Debug\_02.All_natural_numbers.exe.config
+D:\Projects\Homework Recursion\02. All natural numbers\bin\Debug\_02.All_natural_numbers.exe
+D:\Projects\Homework Recursion\02. All natural numbers\bin\Debug\_02.All_natural_numbers.pdb
+D:\Projects\Homework Recursion\02. All natural numbers\obj\Debug\_02.All_natural_numbers.exe
+D:\Projects\Homework Recursion\02. All natural numbers\obj\Debug\_02.All_natural_numbers.pdb

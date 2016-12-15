@@ -1,0 +1,5 @@
+D:\Projects\Homework Recursion\05. Sum of all even or odd numbers\bin\Debug\_05.Sum_of_all_even_or_odd_numbers.exe.config
+D:\Projects\Homework Recursion\05. Sum of all even or odd numbers\bin\Debug\_05.Sum_of_all_even_or_odd_numbers.exe
+D:\Projects\Homework Recursion\05. Sum of all even or odd numbers\bin\Debug\_05.Sum_of_all_even_or_odd_numbers.pdb
+D:\Projects\Homework Recursion\05. Sum of all even or odd numbers\obj\Debug\_05.Sum_of_all_even_or_odd_numbers.exe
+D:\Projects\Homework Recursion\05. Sum of all even or odd numbers\obj\Debug\_05.Sum_of_all_even_or_odd_numbers.pdb

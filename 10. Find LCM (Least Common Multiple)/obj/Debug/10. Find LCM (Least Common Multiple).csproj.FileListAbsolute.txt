@@ -1,0 +1,6 @@
+D:\Projects\Homework Recursion\10. Find LCM (Least Common Multiple)\bin\Debug\_10.Find_LCM__Least_Common_Multiple_.exe.config
+D:\Projects\Homework Recursion\10. Find LCM (Least Common Multiple)\bin\Debug\_10.Find_LCM__Least_Common_Multiple_.exe
+D:\Projects\Homework Recursion\10. Find LCM (Least Common Multiple)\bin\Debug\_10.Find_LCM__Least_Common_Multiple_.pdb
+D:\Projects\Homework Recursion\10. Find LCM (Least Common Multiple)\obj\Debug\10. Find LCM (Least Common Multiple).csprojResolveAssemblyReference.cache
+D:\Projects\Homework Recursion\10. Find LCM (Least Common Multiple)\obj\Debug\_10.Find_LCM__Least_Common_Multiple_.exe
+D:\Projects\Homework Recursion\10. Find LCM (Least Common Multiple)\obj\Debug\_10.Find_LCM__Least_Common_Multiple_.pdb

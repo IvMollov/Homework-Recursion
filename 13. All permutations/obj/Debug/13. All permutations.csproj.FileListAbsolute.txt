@@ -1,0 +1,6 @@
+D:\Projects\Homework Recursion\13. All permutations\bin\Debug\_13.All_permutations.exe.config
+D:\Projects\Homework Recursion\13. All permutations\bin\Debug\_13.All_permutations.exe
+D:\Projects\Homework Recursion\13. All permutations\bin\Debug\_13.All_permutations.pdb
+D:\Projects\Homework Recursion\13. All permutations\obj\Debug\13. All permutations.csprojResolveAssemblyReference.cache
+D:\Projects\Homework Recursion\13. All permutations\obj\Debug\_13.All_permutations.exe
+D:\Projects\Homework Recursion\13. All permutations\obj\Debug\_13.All_permutations.pdb

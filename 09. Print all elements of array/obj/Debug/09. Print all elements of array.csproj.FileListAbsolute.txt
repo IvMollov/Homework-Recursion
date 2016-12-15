@@ -1,0 +1,5 @@
+D:\Projects\Homework Recursion\09. Print all elements of array\bin\Debug\_09.Print_all_elements_of_array.exe.config
+D:\Projects\Homework Recursion\09. Print all elements of array\bin\Debug\_09.Print_all_elements_of_array.exe
+D:\Projects\Homework Recursion\09. Print all elements of array\bin\Debug\_09.Print_all_elements_of_array.pdb
+D:\Projects\Homework Recursion\09. Print all elements of array\obj\Debug\_09.Print_all_elements_of_array.exe
+D:\Projects\Homework Recursion\09. Print all elements of array\obj\Debug\_09.Print_all_elements_of_array.pdb

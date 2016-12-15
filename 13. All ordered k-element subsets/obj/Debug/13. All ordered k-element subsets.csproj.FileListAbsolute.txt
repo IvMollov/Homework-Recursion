@@ -1,0 +1,5 @@
+D:\Projects\Homework Recursion\13. All ordered k-element subsets\bin\Debug\_13.All_ordered_k_element_subsets.exe.config
+D:\Projects\Homework Recursion\13. All ordered k-element subsets\bin\Debug\_13.All_ordered_k_element_subsets.exe
+D:\Projects\Homework Recursion\13. All ordered k-element subsets\bin\Debug\_13.All_ordered_k_element_subsets.pdb
+D:\Projects\Homework Recursion\13. All ordered k-element subsets\obj\Debug\_13.All_ordered_k_element_subsets.exe
+D:\Projects\Homework Recursion\13. All ordered k-element subsets\obj\Debug\_13.All_ordered_k_element_subsets.pdb
