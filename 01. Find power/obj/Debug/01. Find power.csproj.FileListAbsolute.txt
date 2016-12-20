@@ -4,3 +4,6 @@ D:\Projects\Homework Recursion\01. Find power\bin\Debug\_01.Find_power.pdb
 D:\Projects\Homework Recursion\01. Find power\obj\Debug\01. Find power.csprojResolveAssemblyReference.cache
 D:\Projects\Homework Recursion\01. Find power\obj\Debug\_01.Find_power.exe
 D:\Projects\Homework Recursion\01. Find power\obj\Debug\_01.Find_power.pdb
+D:\Projects\Homework Recursion\Homework-Recursion\01. Find power\bin\Debug\_01.Find_power.exe.config
+D:\Projects\Homework Recursion\Homework-Recursion\01. Find power\obj\Debug\_01.Find_power.exe
+D:\Projects\Homework Recursion\Homework-Recursion\01. Find power\obj\Debug\_01.Find_power.pdb
